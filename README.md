@@ -33,7 +33,7 @@ Running App:
   is installed
 ## How Does It Work?
 - This app consist four modules product_operations.py, generat_bill.py,product.py and __init__.py
-###'product_operations.py' 
+### 'product_operations.py' 
 - It acts somehowe like a controller between user input and product class.
 - note: all these functions intract with product class for CRUD opertion
 -    This file consist all the functions which do operation on products
